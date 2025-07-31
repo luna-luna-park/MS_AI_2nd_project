@@ -30,13 +30,6 @@ Step 3: 대안 인생 탐색
 
 
 
-# 프로젝트 화면
-아래는 프로젝트 주요 화면입니다.
-![if_story_selectmoment](images/if_story_selectmoment.png)
-![if_story_summary](images/if_story_summary.png)
-![if_story_autobio](images/if_story_autobio.png)
-![result_music](images/result_music.png)
-
 
 # 추후 업그레이드 방향
 [캐릭터 & 브랜드 협업]
@@ -49,8 +42,18 @@ Step 3: 대안 인생 탐색
     - 위기 상황 조기 발견: 우울, 자해, 학교폭력 등 위험 신호 감지 및 전문기관 연계
 
   - 학교 활용: 학생 상담 및 감정 관리 도구로 교육기관 도입 가능, NICE 연계 등
-    교사와 상담교사를 위한 학생 이해 리포트 제공
-    개별 학생 맞춤형 상담 가이드라인 생성
+    - 교사와 상담교사를 위한 학생 이해 리포트 제공
+    - 개별 학생 맞춤형 상담 가이드라인 생성
 
   - B2B 적용: 기업 복지용, 정신건강 기관 협업 서비스 패키지 구성
-    청소년 상담센터, 정신건강복지센터와의 전문적 협업 모델 구축
+    - 청소년 상담센터, 정신건강복지센터와의 전문적 협업 모델 구축
+
+
+
+
+# 프로젝트 화면
+아래는 프로젝트 주요 화면입니다.
+![if_story_selectmoment](images/if_story_selectmoment.png)
+![if_story_summary](images/if_story_summary.png)
+![if_story_autobio](images/if_story_autobio.png)
+![result_music](images/result_music.png)
